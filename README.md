@@ -7,10 +7,10 @@ Basic machine learning (Group Project)
 3. Data cleaning and encoding
 
 Contributors:
-Lei Qiaoyan
-Eugene Tham
-Nguyen Viet Dung
-Yeo Jun Wen Samuel
-Khine Hsu Wai
-Zhao Min
-Mohd Saif Ansari
+Lei Qiaoyan__
+Eugene Tham__
+Nguyen Viet Dung__
+Yeo Jun Wen Samuel__
+Khine Hsu Wai__
+Zhao Min__
+Mohd Saif Ansari__
