@@ -1,5 +1,4 @@
-# Basic-machine-learning
-Basic machine learning (Group Project)
+# machine-learning-proect
 
 ### Features
 1. Supervised learning
@@ -8,17 +7,5 @@ Basic machine learning (Group Project)
 
 Contributors:
 
-Lei Qiaoyan
-
-Eugene Tham
-
-Nguyen Viet Dung
-
-Yeo Jun Wen Samuel
-
-Khine Hsu Wai
-
-Zhao Min
-
-Mohd Saif Ansari
+Lei Qiaoyan, Nguyen Viet Dung, Yeo Jun Wen Samuel, Khine Hsu Wai, Zhao Min, Mohd Saif Ansari
 
