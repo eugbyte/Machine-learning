@@ -1,6 +1,9 @@
 # machine-learning-proect
 Machine learning project with Kaggle data sets
 
+## Installation
+Install Jupyerter Notebook to view the files
+
 ### Features
 1. Supervised learning
 2. Unsupervised learning
