@@ -1,4 +1,5 @@
 # machine-learning-proect
+Machine learning project with Kaggle data sets
 
 ### Features
 1. Supervised learning
